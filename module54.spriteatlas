@@ -185,7 +185,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 5fd6d1851345f344bbaade79e1656846, type: 3}
   - {fileID: 21300000, guid: 94f48a85165f2284384393e7d8b11903, type: 3}
   - {fileID: 21300000, guid: 0982c4956b7876241877a3fa9f6bfb52, type: 3}
-  - {fileID: 21300000, guid: 33607c95ba4481c49bd8338ba822667b, type: 3}
   - {fileID: 21300000, guid: e27ec3a58f77dd94bb86c1cade620612, type: 3}
   - {fileID: 21300000, guid: 90cf42c504eba8346af2ee5c6c217b52, type: 3}
   - {fileID: 21300000, guid: 450e3ae5838fb05408b7560c8f739ecd, type: 3}
@@ -224,12 +223,12 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 662727f7cf7df674ead1b1210e3096d2, type: 3}
   - {fileID: 21300000, guid: b29d7c0881186554db0f3d363524ba89, type: 3}
   - {fileID: 21300000, guid: eee86018732cb1149a980cefbe01d7d3, type: 3}
+  - {fileID: 21300000, guid: 72405d18743d756449b541fed7c679bc, type: 3}
   - {fileID: 21300000, guid: 51ccf0285bed84b459450332e4961ebc, type: 3}
   - {fileID: 21300000, guid: 58a19428555206d42afb141b053b1fe0, type: 3}
   - {fileID: 21300000, guid: ff2bd2381374b3143b0bc2bf2657a77e, type: 3}
   - {fileID: 21300000, guid: f7e88f38130e1974fa728bdfe627ce19, type: 3}
   - {fileID: 21300000, guid: 9dad59484aa10d84aae90f424b3fd744, type: 3}
-  - {fileID: 21300000, guid: 26866b48930361744b4c095182e8b7b0, type: 3}
   - {fileID: 21300000, guid: a1b6ba5891978944b929e2600c045a73, type: 3}
   - {fileID: 21300000, guid: e56c0c58632660e4aa66611dcbff3bd2, type: 3}
   - {fileID: 21300000, guid: d7d160784b8f4c947aad0d1a69acd432, type: 3}
@@ -383,6 +382,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 44cc196f976254d43bc259adb3d9e839, type: 3}
   - {fileID: 21300000, guid: cb90fe6f6e6b9b648b763622cde81df1, type: 3}
   - {fileID: 21300000, guid: bc725b7f456c148489397fab7d134319, type: 3}
+  - {fileID: 21300000, guid: 1129fe7f7e83194458dd251116bb2351, type: 3}
   - {fileID: 21300000, guid: 15013dcf46ee2b04d9a4e45eee7f53fc, type: 3}
   - {fileID: 21300000, guid: 9ff007df9768d6b41a0fac4a99add53a, type: 3}
   - {fileID: 21300000, guid: 3c58e4efaff879d4fa7cdb60b920e963, type: 3}
@@ -488,7 +488,6 @@ SpriteAtlas:
   - ajdmx_icom_mny_10
   - ajdmx_icom_niao_2
   - ajdmx_icom_niao_5
-  - ajdmx_an_qd 1
   - ajdmx_icom_mao_13
   - ajdmx_dh_ltq_11
   - ajdmx_icom_jzt_13
@@ -527,12 +526,12 @@ SpriteAtlas:
   - ajdmx_touxiangkuang
   - ajdmx_icom_mny_11
   - ajdmx_icom_mao_18
+  - gold
   - ajdmx_icom_mny_17
   - ajdmx_dh_lty_10
   - ajdmx_icom_niao_3
   - ajdmx_bj_2
   - ajdmx_dh_ltq_7
-  - gold
   - ajdmx_dh_ltz_8
   - ajdmx_dh_lth_6
   - ajdmx_kuang_4
@@ -686,6 +685,7 @@ SpriteAtlas:
   - ajdmx_an_quxiao_down
   - ajdmx_an_quxiao_up
   - ajdmx_icom_jzt_4
+  - ajdmx_icom_jinbi
   - ajdmx_icom_yan_15
   - ajdmx_dh_lth_8
   - ajdmx_youxikuang
